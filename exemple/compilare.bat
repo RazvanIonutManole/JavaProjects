@@ -1,0 +1,1 @@
+javac Exemple.java comp\progl\vanator\*.java >erori.txt 2>&1
